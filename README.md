@@ -1,22 +1,26 @@
-# Start Here!
-Welcome to Liftoff! We are excited to have you in this course.
+OVERVIEW:
 
-You are currently viewing the Liftoff Assignments Repository. This repo contains information about all of the assignments in the course, and will be how you will submit much of your work.
+When I was studying poetry in college, I wished for a tool that could help with traditional poetry formatting. A sestina, for example, requires a repetition of the final word in a poem's stanzas that follow a consistent cycle. It's hard to explain, but it's very easy to look at. This tool allows you to take an easy look at tricky poetry traditions. It's designed for curious writers who want to play around with rhyme and learn a bit about literature without the tuition price or the stuffy lecture.
 
-## Repo Explanation
-In Liftoff we are focusing on two things: your Personal Project, and Career Readiness skills. Throughout this course you will have assignments related to both of those core areas. Looking through this repo you can see Personal Project assignments, and Career Readiness assignments.
 
-Personal Project Assignments are flagged with P#, and Career Readiness assignments are flagged with C#, both are followed by the name of the assignment.
+FEATURES:
 
-You will use this repository in tandem with Canvas. All of your grades will be recorded in Canvas, however you will submit your work through this GitHub repository.
+1. Sestina Formatter: Users will be able to create poems using tool that re-arranges user input according to the format.
+2. Rhyme API: Users will be able to search for rhyming words.
+3. Style Option: Users can change the font style of their resulting poem
 
-We are making you use GitHub for two important reasons:
-<ol>
-<li>You will get more practice with GitHub</li>
-<li>Your assignments are all stored in one place</li>
-</ol>
 
-## Next Step
-Now that you know what this repo is for let's get it setup.
+TECHNOLOGIES:
 
-Click the [P1 - Assignment Repository Setup](./P1-Assignment_Repository_Setup/) repo for further instructions.
+Java
+Spring Boot
+Hibernate
+Thymeleaf templates
+
+WHAT I'LL HAVE TO LEARN:
+Building a formatting tool in Java (Sestina Formatter)
+Using data from a public API (Rhyme API) 
+How to make the front-end interactive (Style Option)
+
+
+Link to Trello Board for Project Tracking: https://trello.com/b/p9EgBCCO/deep-draft
